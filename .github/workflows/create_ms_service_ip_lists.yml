@@ -1,0 +1,48 @@
+name: Microsoft Services IP-Lists
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:    
+      - main
+  schedule:
+    - cron: '30 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate_lists:
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: checkout repositoriy
+        uses: actions/checkout@v3
+        with:
+          ref: 'main'
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+      - name: run parts
+        run: |
+          # create directorys
+          mkdir -p docs/{azure,o365}
+          # change execute persmissions
+          chmod 755 ./generate_list_*.sh
+          # execute script for azure
+          ./generate_list_azure.sh
+          # execute script for python
+          python3.8 ./generate_list_o365.py
+          # Create generated.txt
+          date > docs/generated.txt
+          # Create index.md
+          echo -e "# IP-List for Azure and O365\n\nGenerated: $(cat docs/generated.txt)\n\n$(for line in $(find docs/ -mindepth 2 -maxdepth 2| sed 's/\docs\///'); do echo "* [$line]($line)"; done)" > docs/index.md
+          # Commit content
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "generated"
+          git push
+
+
