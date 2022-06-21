@@ -1,6 +1,3 @@
 *.log
-*.retry
 gitlog.txt
-*.swp
-blackweb.tar.gz
 docs/generated.txt
