@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Fri Jun 17 12:29:13 UTC 2022
+Generated: Tue Jun 21 09:53:28 UTC 2022
 
 * [o365/tcp_443.txt](o365/tcp_443.txt)
 * [o365/udp_3478,3479,3480,3481.txt](o365/udp_3478,3479,3480,3481.txt)
