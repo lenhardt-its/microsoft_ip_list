@@ -37,7 +37,7 @@ jobs:
           # Create generated.txt
           date > docs/generated.txt
           # Create index.md
-          echo -e "# IP-List for Azure and O365\n\nGenerated: $(cat docs/generated.txt)\n\n$(for line in $(find docs/ -mindepth 2 -maxdepth 2| sed 's/\docs\///'); do echo "* [$line]($line)"; done)" > docs/index.md
+          echo -e "# IP-List for Azure and O365\n\nGenerated: $(cat docs/generated.txt)\n\n* [github.txt](github.txt)\n$(for line in $(find docs/ -mindepth 2 -maxdepth 2| sed 's/\docs\///'); do echo "* [$line]($line)"; done)" > docs/index.md
           # Commit content
           git config user.name github-actions
           git config user.email github-actions@github.com
