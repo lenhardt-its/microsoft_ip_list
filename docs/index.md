@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Sat Jul  9 05:33:08 UTC 2022
+Generated: Sun Jul 10 05:33:55 UTC 2022
 
 * [github.txt](github.txt)
 * [o365/url.txt](o365/url.txt)
