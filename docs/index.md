@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Mon Jul 18 05:46:28 UTC 2022
+Generated: Tue Jul 19 05:55:02 UTC 2022
 
 * [github.txt](github.txt)
 * [azure/AzureFrontDoor.Backend.txt](azure/AzureFrontDoor.Backend.txt)
