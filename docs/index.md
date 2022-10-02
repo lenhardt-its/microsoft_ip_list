@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Sat Oct  1 06:11:50 UTC 2022
+Generated: Sun Oct  2 05:59:00 UTC 2022
 
 * [github.txt](github.txt)
 * [azure/OneDsCollector.txt](azure/OneDsCollector.txt)
