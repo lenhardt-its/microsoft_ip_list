@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Sun Oct 30 05:42:12 UTC 2022
+Generated: Mon Oct 31 05:50:08 UTC 2022
 
 * [github.txt](github.txt)
 * [azure/DataFactoryManagement.txt](azure/DataFactoryManagement.txt)
