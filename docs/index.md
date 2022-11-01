@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Mon Oct 31 05:50:08 UTC 2022
+Generated: Tue Nov  1 06:00:17 UTC 2022
 
 * [github.txt](github.txt)
 * [azure/DataFactoryManagement.txt](azure/DataFactoryManagement.txt)
@@ -88,6 +88,7 @@ Generated: Mon Oct 31 05:50:08 UTC 2022
 * [o365/udp_3478,3479,3480,3481.txt](o365/udp_3478,3479,3480,3481.txt)
 * [o365/tcp_995.txt](o365/tcp_995.txt)
 * [o365/tcp_587.txt](o365/tcp_587.txt)
+* [o365/tcp_80,443udp_443.txt](o365/tcp_80,443udp_443.txt)
 * [o365/endpoints_clientid_latestversion.txt](o365/endpoints_clientid_latestversion.txt)
 * [o365/tcp_80,443.txt](o365/tcp_80,443.txt)
 * [o365/tcp_143,993.txt](o365/tcp_143,993.txt)
