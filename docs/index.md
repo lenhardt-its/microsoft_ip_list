@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Tue Nov  8 05:41:28 UTC 2022
+Generated: Wed Nov  9 05:44:37 UTC 2022
 
 * [github.txt](github.txt)
 * [azure/PowerPlatformInfra.txt](azure/PowerPlatformInfra.txt)
@@ -23,6 +23,7 @@ Generated: Tue Nov  8 05:41:28 UTC 2022
 * [azure/OneDsCollector.txt](azure/OneDsCollector.txt)
 * [azure/AzureBackup.txt](azure/AzureBackup.txt)
 * [azure/AzureTrafficManager.txt](azure/AzureTrafficManager.txt)
+* [azure/ChaosStudio.txt](azure/ChaosStudio.txt)
 * [azure/LogicApps.txt](azure/LogicApps.txt)
 * [azure/AzureDevSpaces.txt](azure/AzureDevSpaces.txt)
 * [azure/ServiceBus.txt](azure/ServiceBus.txt)
@@ -37,6 +38,7 @@ Generated: Tue Nov  8 05:41:28 UTC 2022
 * [azure/MicrosoftAzureFluidRelay.txt](azure/MicrosoftAzureFluidRelay.txt)
 * [azure/MicrosoftContainerRegistry.txt](azure/MicrosoftContainerRegistry.txt)
 * [azure/AzureActiveDirectory.txt](azure/AzureActiveDirectory.txt)
+* [azure/AutonomousDevelopmentPlatform.txt](azure/AutonomousDevelopmentPlatform.txt)
 * [azure/AzureMachineLearning.txt](azure/AzureMachineLearning.txt)
 * [azure/EventHub.txt](azure/EventHub.txt)
 * [azure/M365ManagementActivityApiWebhook.txt](azure/M365ManagementActivityApiWebhook.txt)
@@ -67,12 +69,14 @@ Generated: Tue Nov  8 05:41:28 UTC 2022
 * [azure/AzureContainerRegistry.txt](azure/AzureContainerRegistry.txt)
 * [azure/AzureSiteRecovery.txt](azure/AzureSiteRecovery.txt)
 * [azure/M365ManagementActivityApi.txt](azure/M365ManagementActivityApi.txt)
+* [azure/AzureSentinel.txt](azure/AzureSentinel.txt)
 * [azure/Sql.txt](azure/Sql.txt)
 * [azure/Dynamics365ForMarketingEmail.txt](azure/Dynamics365ForMarketingEmail.txt)
 * [azure/AzureEventGrid.txt](azure/AzureEventGrid.txt)
 * [azure/AzureHealthcareAPIs.txt](azure/AzureHealthcareAPIs.txt)
 * [azure/AzureFrontDoor.Frontend.txt](azure/AzureFrontDoor.Frontend.txt)
 * [azure/SCCservice.txt](azure/SCCservice.txt)
+* [azure/AzureWebPubSub.txt](azure/AzureWebPubSub.txt)
 * [azure/AzurePortal.txt](azure/AzurePortal.txt)
 * [azure/AzureDataLake.txt](azure/AzureDataLake.txt)
 * [azure/CognitiveServicesManagement.txt](azure/CognitiveServicesManagement.txt)
