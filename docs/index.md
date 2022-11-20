@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Sat Nov 19 05:34:02 UTC 2022
+Generated: Sun Nov 20 05:34:03 UTC 2022
 
 * [github.txt](github.txt)
 * [azure/PowerPlatformInfra.txt](azure/PowerPlatformInfra.txt)
