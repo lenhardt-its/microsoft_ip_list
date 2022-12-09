@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Thu Dec  8 05:32:01 UTC 2022
+Generated: Fri Dec  9 05:31:58 UTC 2022
 
 * [github.txt](github.txt)
 * [o365/endpoints_clientid_latestversion.txt](o365/endpoints_clientid_latestversion.txt)
