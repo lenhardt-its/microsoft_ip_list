@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Tue Dec 13 05:32:04 UTC 2022
+Generated: Wed Dec 14 05:32:01 UTC 2022
 
 * [github.txt](github.txt)
 * [o365/endpoints_clientid_latestversion.txt](o365/endpoints_clientid_latestversion.txt)
@@ -19,6 +19,7 @@ Generated: Tue Dec 13 05:32:04 UTC 2022
 * [azure/AzureCloud.txt](azure/AzureCloud.txt)
 * [azure/HDInsight.txt](azure/HDInsight.txt)
 * [azure/BatchNodeManagement.txt](azure/BatchNodeManagement.txt)
+* [azure/MicrosoftDefenderForEndpoint.txt](azure/MicrosoftDefenderForEndpoint.txt)
 * [azure/M365ManagementActivityApiWebhook.txt](azure/M365ManagementActivityApiWebhook.txt)
 * [azure/MicrosoftCloudAppSecurity.txt](azure/MicrosoftCloudAppSecurity.txt)
 * [azure/SCCservice.txt](azure/SCCservice.txt)
