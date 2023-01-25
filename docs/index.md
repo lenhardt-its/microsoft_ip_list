@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Tue Jan 24 05:31:56 UTC 2023
+Generated: Wed Jan 25 05:32:01 UTC 2023
 
 * [github.txt](github.txt)
 * [o365/tcp_587.txt](o365/tcp_587.txt)
@@ -38,6 +38,7 @@ Generated: Tue Jan 24 05:31:56 UTC 2023
 * [azure/PowerBI.txt](azure/PowerBI.txt)
 * [azure/AzureFrontDoor.FirstParty.txt](azure/AzureFrontDoor.FirstParty.txt)
 * [azure/MicrosoftAzureFluidRelay.txt](azure/MicrosoftAzureFluidRelay.txt)
+* [azure/Dynamics365BusinessCentral.txt](azure/Dynamics365BusinessCentral.txt)
 * [azure/AzureDataLake.txt](azure/AzureDataLake.txt)
 * [azure/AzureDevOps.txt](azure/AzureDevOps.txt)
 * [azure/AutonomousDevelopmentPlatform.txt](azure/AutonomousDevelopmentPlatform.txt)
