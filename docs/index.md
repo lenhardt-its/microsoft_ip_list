@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Tue Feb 14 05:32:05 UTC 2023
+Generated: Wed Feb 15 05:32:20 UTC 2023
 
 * [github.txt](github.txt)
 * [o365/tcp_587.txt](o365/tcp_587.txt)
@@ -42,6 +42,7 @@ Generated: Tue Feb 14 05:32:05 UTC 2023
 * [azure/AzureDataLake.txt](azure/AzureDataLake.txt)
 * [azure/AzureDevOps.txt](azure/AzureDevOps.txt)
 * [azure/AutonomousDevelopmentPlatform.txt](azure/AutonomousDevelopmentPlatform.txt)
+* [azure/Marketplace.txt](azure/Marketplace.txt)
 * [azure/AzureBackup.txt](azure/AzureBackup.txt)
 * [azure/AzureAttestation.txt](azure/AzureAttestation.txt)
 * [azure/AzureKeyVault.txt](azure/AzureKeyVault.txt)
