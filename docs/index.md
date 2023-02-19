@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Sat Feb 18 05:31:37 UTC 2023
+Generated: Sun Feb 19 05:31:56 UTC 2023
 
 * [github.txt](github.txt)
 * [o365/tcp_143,993.txt](o365/tcp_143,993.txt)
