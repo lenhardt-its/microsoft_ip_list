@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Mon Feb 20 05:31:47 UTC 2023
+Generated: Tue Feb 21 05:31:58 UTC 2023
 
 * [github.txt](github.txt)
 * [o365/tcp_143,993.txt](o365/tcp_143,993.txt)
@@ -75,6 +75,7 @@ Generated: Mon Feb 20 05:31:47 UTC 2023
 * [azure/MicrosoftCloudAppSecurity.txt](azure/MicrosoftCloudAppSecurity.txt)
 * [azure/AzureIoTHub.txt](azure/AzureIoTHub.txt)
 * [azure/Sql.txt](azure/Sql.txt)
+* [azure/AzureSpringCloud.txt](azure/AzureSpringCloud.txt)
 * [azure/PowerPlatformInfra.txt](azure/PowerPlatformInfra.txt)
 * [azure/AppServiceManagement.txt](azure/AppServiceManagement.txt)
 * [azure/LogicAppsManagement.txt](azure/LogicAppsManagement.txt)
