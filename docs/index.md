@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Tue Feb 28 05:32:48 UTC 2023
+Generated: Wed Mar  1 05:33:31 UTC 2023
 
 * [github.txt](github.txt)
 * [o365/tcp_143,993.txt](o365/tcp_143,993.txt)
@@ -13,6 +13,7 @@ Generated: Tue Feb 28 05:32:48 UTC 2023
 * [o365/tcp_587.txt](o365/tcp_587.txt)
 * [o365/tcp_80,443udp_443.txt](o365/tcp_80,443udp_443.txt)
 * [o365/tcp_25.txt](o365/tcp_25.txt)
+* [azure/CognitiveServicesFrontend.txt](azure/CognitiveServicesFrontend.txt)
 * [azure/AzurePortal.txt](azure/AzurePortal.txt)
 * [azure/HDInsight.txt](azure/HDInsight.txt)
 * [azure/AzureMachineLearning.txt](azure/AzureMachineLearning.txt)
