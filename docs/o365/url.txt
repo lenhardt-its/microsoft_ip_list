@@ -16,7 +16,6 @@
 *.skypeforbusiness.com
 *.teams.microsoft.com
 account.activedirectory.windowsazure.com
-account.office.net
 accounts.accesscontrol.windows.net
 adminwebservice.microsoftonline.com
 api.passwordreset.microsoftonline.com
