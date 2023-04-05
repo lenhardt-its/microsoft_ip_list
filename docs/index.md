@@ -1,6 +1,6 @@
 # IP-List for Azure and O365
 
-Generated: Tue Apr  4 05:31:47 UTC 2023
+Generated: Wed Apr  5 05:31:39 UTC 2023
 
 * [github.txt](github.txt)
 * [azure/AzureCosmosDB.txt](azure/AzureCosmosDB.txt)
